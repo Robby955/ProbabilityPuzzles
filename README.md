@@ -9,3 +9,20 @@ Try it yourself using my interactive Shiny Applications.
 
 The full article if avaliable [here](https://medium.com/cantors-paradise/exploring-the-monty-hall-and-birthday-problem-with-simulations-9c1bca66c5f5)
 
+# Monty Hall Problem
+<img src="https://github.com/Robby955/ProbabilityPuzzles/blob/main/images/MontyHall.jpg" width="600" />
+
+The simulation can be seen here;
+
+<img src="https://github.com/Robby955/ProbabilityPuzzles/blob/main/images/monty.png" width="600" />
+
+
+
+
+# Birthday Problem
+
+<img src="https://github.com/Robby955/ProbabilityPuzzles/blob/main/images/birthdayparadox.png" width="600" />
+
+And the simulation for the birthday problem:
+
+<img src="https://github.com/Robby955/ProbabilityPuzzles/blob/main/images/birthdayplot.png" width="600" />
